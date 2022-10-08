@@ -1,0 +1,100 @@
+body {
+  text-align: center;
+  font-family: "ヒラギノ丸ゴ Pro W4", "ヒラギノ丸ゴ Pro", "Hiragino Maru Gothic Pro", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "HG丸ｺﾞｼｯｸM-PRO", "HGMaruGothicMPRO";
+  background: #f8f0d7;
+  border-left: 5px dotted rgba(0, 0, 0, .1);
+  box-shadow: 0 0 0 5 #f8f0d7;
+  margin: 80px;
+  padding: 0;
+}
+
+.title {
+  width: 140px;
+  height: 50px;
+  margin: -25px auto 0;
+  border-bottom: double 6px orange;
+}
+
+.toukou {
+  width: 60%;
+  max-width: 600px;
+  margin: 0 auto;
+  height: 250px;
+  padding: 1em;
+  margin-top: 65px;
+  margin-bottom: 12px;
+  background-color: #ffffcc;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.15);
+}
+
+.toukou_tape {
+  display: block;
+  background-color: #ccb;
+  opacity: 0.2;
+  transform: rotate(3deg);
+  width: 40%;
+  max-width: 150px;
+  height: 35px;
+  margin: -2em auto 0 auto;
+  border-left: 3px dotted rgba(0, 0, 0, .1);
+  border-right: 3px dotted rgba(0, 0, 0, .1);
+}
+
+.honbun {
+  margin-top: 30px;
+  margin-bottom: 12px;
+}
+
+.label {
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.itiran {
+  width: 90%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1em;
+  margin-top: 50px;
+  margin-bottom: 12px;
+  background-color: #ffffcc;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.15);
+}
+
+.itiran_tape {
+  display: block;
+  background-color: #ccb;
+  opacity: 0.2;
+  transform: rotate(3deg);
+  width: 40%;
+  max-width: 150px;
+  height: 35px;
+  margin: -2em auto 0 auto;
+  border-left: 3px dotted rgba(0, 0, 0, .1);
+  border-right: 3px dotted rgba(0, 0, 0, .1);
+}
+
+.kekka {
+  width: 60%;
+  max-width: 400px;
+  margin: 0 auto;
+  height: 25%;
+  padding: 1em;
+  margin-top: 65px;
+  margin-bottom: 12px;
+  background-color: #ffffcc;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.15);
+}
+
+.kekka_tape {
+  display: block;
+  background-color: #ccb;
+  opacity: 0.2;
+  transform: rotate(3deg);
+  width: 40%;
+  max-width: 150px;
+  height: 35px;
+  margin: -2em auto 0 auto;
+  border-left: 3px dotted rgba(0, 0, 0, .1);
+  border-right: 3px dotted rgba(0, 0, 0, .1);
+}
